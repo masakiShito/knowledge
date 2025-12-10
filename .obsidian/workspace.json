@@ -177,43 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "9fadf8af8848cb79",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e8536b963b7cb7a7",
-        "type": "window",
-        "children": [
-          {
-            "id": "e1ded0d78551b62e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3444b4f75ff5de1a",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新規タブ"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 244,
-        "y": 38,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "3444b4f75ff5de1a",
+  "active": "354e7aced647f01b",
   "lastOpenFiles": [
+    "00_家庭",
+    "無題のファイル.md",
     "README.md",
     "コミットテスト.md",
     "無題のフォルダ"
