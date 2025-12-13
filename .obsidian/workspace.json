@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Knowledge/2025-12-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-12-13"
             }
           }
         ]
@@ -179,10 +179,12 @@
   },
   "active": "354e7aced647f01b",
   "lastOpenFiles": [
+    "README.md",
+    "Knowledge/2025-12-13.md",
+    "Knowledge",
+    "コミットテスト.md",
     "00_家庭",
     "無題のファイル.md",
-    "README.md",
-    "コミットテスト.md",
     "無題のフォルダ"
   ]
 }
