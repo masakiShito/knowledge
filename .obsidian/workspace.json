@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/2025-12-14 UI UXについて.md",
+                "file": "Knowledge/2025-12-13 Reactの脆弱性について.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-14 UI UXについて"
+              "title": "2025-12-13 Reactの脆弱性について"
             }
           }
         ],
@@ -194,13 +194,20 @@
   },
   "active": "a68837dba3917846",
   "lastOpenFiles": [
-    "Knowledge/UIUX.md",
     "Knowledge/2025-12-14 UI UXについて.md",
-    "README.md",
     "Knowledge/2025-12-13 Reactの脆弱性について.md",
-    "Knowledge",
-    "コミットテスト.md",
-    "00_家庭",
-    "無題のフォルダ"
+    "99_drafts",
+    "07_tools/obsidian",
+    "07_tools/git",
+    "07_tools/cli",
+    "07_tools",
+    "06_process/review",
+    "06_process/requirement-definition",
+    "06_process/incident",
+    "06_process",
+    "05_security/vulnerabilities/infra",
+    "Knowledge/UIUX.md",
+    "README.md",
+    "コミットテスト.md"
   ]
 }
