@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_frontend/react/security/2025-12-13 Reactの脆弱性について.md",
+                "file": "06_process/ui-ux/patterns/2025-12-14 UI UXについて.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-13 Reactの脆弱性について"
+              "title": "2025-12-14 UI UXについて"
             }
           }
         ],
@@ -194,8 +194,8 @@
   },
   "active": "a68837dba3917846",
   "lastOpenFiles": [
-    "06_process/ui-ux/patterns/2025-12-14 UI UXについて.md",
     "02_frontend/react/security/2025-12-13 Reactの脆弱性について.md",
+    "06_process/ui-ux/patterns/2025-12-14 UI UXについて.md",
     "06_process/ui-ux/patterns",
     "06_process/ui-ux",
     "99_drafts",
