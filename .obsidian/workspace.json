@@ -194,6 +194,7 @@
   },
   "active": "a68837dba3917846",
   "lastOpenFiles": [
+    "Knowledge/UIUX.md",
     "02_frontend/react/security/2025-12-13 Reactの脆弱性について.md",
     "06_process/ui-ux/patterns/2025-12-14 UI UXについて.md",
     "06_process/ui-ux/patterns",
@@ -206,7 +207,6 @@
     "06_process/review",
     "06_process/requirement-definition",
     "06_process/incident",
-    "Knowledge/UIUX.md",
     "README.md",
     "コミットテスト.md"
   ]
