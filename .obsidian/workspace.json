@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/UIUX.md",
+                "file": "02_frontend/react/security/2025-12-13 Reactの脆弱性について.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UIUX"
+              "title": "2025-12-13 Reactの脆弱性について"
             }
           }
         ],
